@@ -1,0 +1,27 @@
+_repo: Qing-Lou-MengQi-Hong-Xiao-Shi_27060
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zor, Tao
+    gutenberg_agent_id: '32423'
+    url: http://www.gutenberg.org/2009/agents/32423
+  editor:
+    agent_name: An, Ping Qiu
+    gutenberg_agent_id: '32304'
+    url: http://www.gutenberg.org/2009/agents/32304
+description: ''
+gutenberg_issued: '2008-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27060'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Qing Lou Meng
+
+  Qi Hong Xiao Shi'
+url: http://www.gutenberg.org/ebooks/27060
